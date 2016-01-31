@@ -1,0 +1,2 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+parse_command	/Users/ryan/Devel/raycast_game/html/index.html	/^            function parse_command(message)$/;"	f	language:HTML
