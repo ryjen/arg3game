@@ -9,7 +9,7 @@ Clients would have the option of connecting via:
 *  a terminal (telnet)
 *  a web page (websockets)
 
-Uses MongoDB for data storage and Lua for scripting
+Uses MongoDB for data storage and SWIG/Lua for scripting
 
 ### Setup
 
@@ -20,6 +20,7 @@ run ```git submodule update --init --recursive```
 * c++11 or higher
 * libarg3
 * libsdl2
+* swig
 * liblua
 * libwebsockets
 * libmongoclient
