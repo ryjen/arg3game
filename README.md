@@ -11,6 +11,10 @@ Clients would have the option of connecting via:
 
 Uses MongoDB for data storage and Lua for scripting
 
+### Setup
+
+run ```git submodule update --init --recursive```
+
 ### Dependencies:
 
 * c++11 or higher
@@ -23,7 +27,6 @@ Uses MongoDB for data storage and Lua for scripting
 Why?
 ----
 
-I'm not the best graphics programmer, so this was an attempt at using some code I'm familar with and putting it to raycasting as a first step.
+I'm experiementing with graphics programming, raycasting is my hello world.
 
-I'm open sourcing it because why the hell not?  I don't think it has any monetary value this day and age.
 
