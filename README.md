@@ -1,5 +1,5 @@
-arg3game
-========
+silly game
+==========
 
 An incomplete framework for a multiplayer role playing game.
 
